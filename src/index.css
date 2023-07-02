@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Poppins-Regular";
+  src: local("Poppins-Regular"),
+   url("./fonts/Poppins-Regular.ttf") format("truetype");
+ }
+
+ @font-face {
+  font-family: "Poppins-Bold";
+  src: local("Poppins-Bold"),
+   url("./fonts/Poppins-Bold.ttf") format("truetype");
+ }
+
+body {
+  margin: 0;
+  font-family: "Poppins-Regular", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f1f1f1
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root{
+  height: 100vh;
+}

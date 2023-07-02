@@ -1,0 +1,63 @@
+.chapters{
+    flex: 2;
+    padding: 1em;
+}
+
+.card{
+    background-color: white;
+    border-radius: 1em;
+    padding: 1em 1.2em;
+    margin: 1em 0em;
+}
+
+.video{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30em;
+}
+
+.cardHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nameContainer{
+    display: flex;
+    gap: 1em;
+    align-items: center;
+}
+
+.nameContainer img{
+    height: 2.5em;
+    width: 2.5em;
+    border-radius: 50%;
+}
+
+.topics{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 1em 0em;
+}
+
+.topics p{
+    padding: 0.5em;
+    width: 45%;
+}
+
+.btn{
+    margin: 1em 0em;
+    font-family: 'Poppins-Bold';
+    padding: 1em;
+    border: none;
+    border-radius: 0.5em;
+    color: white;
+    background: linear-gradient(to right,rgb(23, 177, 248),rgb(8,67,221));;
+}
+
+.btn:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
