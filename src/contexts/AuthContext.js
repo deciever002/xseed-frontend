@@ -24,6 +24,7 @@ export const AuthContextProvider = ({children}) => {
                     "Content-Type":"application/json"
                 },
                 withCredentials: true,
+                credentials: 'include',
                 url: REQUEST_URL + "/user/getUser"
             });
             console.log("USER",response);
@@ -44,6 +45,11 @@ export const AuthContextProvider = ({children}) => {
                 email,password
                 },
                 withCredentials: true,
+                credentials: 'include',
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
                 url: REQUEST_URL + "/user/login",
             });
             console.log(response);

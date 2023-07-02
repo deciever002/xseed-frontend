@@ -1,1 +1,1 @@
-export const REQUEST_URL = "https://xseed-backend.vercel.app";
+export const REQUEST_URL = "http://localhost:8000";
