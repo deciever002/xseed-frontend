@@ -1,1 +1,1 @@
-export const REQUEST_URL = "https://xseed-backend.onrender.com";
+export const REQUEST_URL = "https://xseed-backend.vercel.app";
