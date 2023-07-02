@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/xseed-frontend/static/css/main.984e3bbb.css",
+    "main.js": "/xseed-frontend/static/js/main.b3859c87.js",
+    "static/media/logo.png": "/xseed-frontend/static/media/logo.e8fdef5322fd548009a8.png",
+    "static/media/Poppins-Regular.ttf": "/xseed-frontend/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Bold.ttf": "/xseed-frontend/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/quizImg.svg": "/xseed-frontend/static/media/quizImg.012adf73f6605b5ecb06fff37b606033.svg",
+    "static/media/quizImgCard.svg": "/xseed-frontend/static/media/quizImgCard.7a87d6b2edd09cc99ad1342e5642a5d3.svg",
+    "static/media/user.png": "/xseed-frontend/static/media/user.e06b28628d8220d24940.png",
+    "static/media/register-user.png": "/xseed-frontend/static/media/register-user.8613704b95678b452331.png",
+    "static/media/login-user.png": "/xseed-frontend/static/media/login-user.33e7df0963941edbeb70.png",
+    "static/media/key.png": "/xseed-frontend/static/media/key.05b2e1deeb26305e0aa6.png",
+    "index.html": "/xseed-frontend/index.html",
+    "main.984e3bbb.css.map": "/xseed-frontend/static/css/main.984e3bbb.css.map",
+    "main.b3859c87.js.map": "/xseed-frontend/static/js/main.b3859c87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.984e3bbb.css",
+    "static/js/main.b3859c87.js"
+  ]
+}
