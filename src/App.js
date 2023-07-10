@@ -1,4 +1,4 @@
-import { Navigate, RouterProvider, createHashRouter } from "react-router-dom";
+import { Navigate, RouterProvider, createBrowserRouter, createHashRouter } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import ErrorBoundary from "./components/ErrorBoundary";
 import LandingPage from "./pages/LandingPage";
@@ -19,7 +19,7 @@ function App() {
     isLoggedIn = true;
   }
 
-  const router = createHashRouter([
+  const router = createBrowserRouter([
     {
       path: '/',
       element: <Navbar />,
