@@ -2,6 +2,12 @@
 
 Welcome to the documentation for our Ed Tech Platform, a full stack application designed to provide educational resources and features for both students and educators. This documentation will guide you through the installation, setup, and usage of the application.
 
+Backend URL: https://xseed-backend.vercel.app/  Frontend URL: https://xseed-frontend-nine.vercel.app/
+
+<img width="1440" alt="Screenshot 2023-08-29 at 12 19 57 AM" src="https://github.com/deciever002/xseed-frontend/assets/112121338/822f1e26-2379-4847-afd4-2b54df8b7ab1">
+<img width="1427" alt="Screenshot 2023-08-29 at 10 43 55 AM" src="https://github.com/deciever002/xseed-frontend/assets/112121338/e90ac2ae-7629-4feb-9054-62e59755734c">
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
